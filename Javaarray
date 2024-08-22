@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
-public class arryaJava {
+public class Javaarray {
 
         public int maxArray(int[] array) {
 
